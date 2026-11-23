@@ -1,0 +1,5 @@
+data/ev_charger_20221027.csv
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
